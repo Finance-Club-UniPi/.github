@@ -1,4 +1,4 @@
-![banner](<img src="https://github.com/user-attachments/assets/c2a9db56-95be-465b-b393-b4a725ca95d6.png" alt=”my banner”>)
+<img src="https://github.com/user-attachments/assets/c2a9db56-95be-465b-b393-b4a725ca95d6.png" alt=”my banner”>
 
 ## Hi there 👋
 
