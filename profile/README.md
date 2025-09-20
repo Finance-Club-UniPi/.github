@@ -1,4 +1,4 @@
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+![banner](<img src="https://github.com/user-attachments/assets/68c7b624-a491-4b86-b53b-237665e5738b" alt=”my banner”>)
 
 ## Hi there 👋
 
