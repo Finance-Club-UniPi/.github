@@ -1,6 +1,3 @@
-![banner](https://github.com/user-attachments/assets/65e21ba3-21fb-4647-a000-556160476e0a)
-
-## Hi there 👋
 
 <!--
 
